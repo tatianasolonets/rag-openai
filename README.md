@@ -1,2 +1,3 @@
 # rag-openai
-Open AI models usage with RAG
+Open AI gpt-4 model RAG usage example and evaluation.
+Add your OPEN API key locally.
